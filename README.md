@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome To My First Blog Post
 
 You can use the [editor on GitHub](https://github.com/chathurith/chathurith.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
